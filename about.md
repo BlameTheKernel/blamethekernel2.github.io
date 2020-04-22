@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm just someone learning about kernels.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I hope this blogs helps me and other people to understand kernels.
 
 ### Contact me
 

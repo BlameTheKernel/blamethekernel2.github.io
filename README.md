@@ -1,0 +1,2 @@
+# Blog
+blamethekernel.github.io
